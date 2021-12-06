@@ -1,6 +1,7 @@
 alembic==1.7.5
 aniso8601==9.0.1
 argcomplete==1.12.3
+apturl==0.5.2
 attrs==21.2.0
 backcall==0.1.0
 bcrypt==3.1.7
