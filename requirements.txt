@@ -1,6 +1,5 @@
 alembic==1.7.5
 aniso8601==9.0.1
-apturl==0.5.2
 argcomplete==1.12.3
 attrs==21.2.0
 backcall==0.1.0
